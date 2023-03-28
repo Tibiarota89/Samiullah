@@ -1,0 +1,12 @@
+head, h1{
+   background: gold;
+   text-decoration: underline;
+   text-align: center;
+   border: 5px black solid;
+}
+head, body{
+	background: silver;
+}
+	
+img{
+	border: 5px black solid;
